@@ -5,7 +5,7 @@ public class FirstHello {
 		
 		
 		
-		System.out.println("Hello");
+		System.out.println("Hello, I am second commit");
 	}
 
 }
